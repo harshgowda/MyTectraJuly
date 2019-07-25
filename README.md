@@ -1,13 +1,8 @@
 # MyTectraJuly
 
-This repo is for MyTectra students who have taken up AI-ML course with Python.
+Hello this is my first MD file
 
-The course has been divided into modules which represent folders. I have explained each module and the topics that they cover.
+How to use this project
 
-Introduction - 
 
-Python - 
-
-Data_Manipulation - 
-
-Visualization -
+this is a new edit
